@@ -4,8 +4,7 @@
   "description": "The ICON system for FoundryVTT!",
   "authors": [
     {
-      "name": "Vinh",
-      "discord": "vinh4822"
+      "name": "Vinh"
     }
   ],
   "url": "https://github.com/VinhUng/ICON",
@@ -38,7 +37,7 @@
   "packFolders": [],
   "socket": false,
   "manifest": "https://github.com/VinhUng/ICON/releases/download/latest/system.json",
-  "download": "https://github.com/VinhUng/ICON/releases/download/0.0.1/ICON.zip",
+  "download": "https://github.com/VinhUng/ICON/releases/download/0.0.1/system.zip",
   "background": "systems/icon/assets/anvil-impact.png",
   "gridDistance": 5,
   "gridUnits": "ft",
